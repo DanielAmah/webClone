@@ -1,6 +1,6 @@
 # A Web Clone using HTML and CSS
 
-A clone of medium.com home page before log in.
+A clone of www.medium.com home page before log in.
 
 
 ## Getting Started
@@ -23,20 +23,11 @@ After clone or fork the project to your local repository run the following to in
 
 ```
 npm install
-npm install --save-dev jasmine ( install the test environment)
 ```
 ### License
 
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-### Jasmine Initiation(optional)
-
-you may need to initialize jasmine using this code
-
-
-```
-./node_modules/.bin/jasmine init
-```
 ### Implementation
 
 Open the app folder an double click on index.html

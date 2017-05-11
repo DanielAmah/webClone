@@ -1,0 +1,26 @@
+{
+  "name": "webclone",
+  "version": "1.0.0",
+  "description": "A clone of medium ",
+  "main": "index.js",
+  "scripts": {
+	"test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAmah/webClone.git"
+  },
+  "keywords": [
+    "Medium.com",
+    "clone"
+  ],
+  "author": "Daniel Amah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAmah/webClone/issues"
+  },
+  "homepage": "https://github.com/DanielAmah/webClone#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
